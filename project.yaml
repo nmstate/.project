@@ -21,7 +21,7 @@ repositories:
 
 website: "https://nmstate.io/"
 
-artwork: "https://landscape.cncf.io/logos/nmstate.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/nmstate"
 
 adopters:
   path: "https://github.com/nmstate/nmstate/blob/base/ADOPTERS.md"
